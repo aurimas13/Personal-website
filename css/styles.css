@@ -5,6 +5,7 @@
     font-size: 1.5rem;
     text-align: center;
   }
+
   .heart {
     fill: red;
     position: relative;
@@ -12,20 +13,22 @@
     width: 20px;
     animation: pulse 1s ease infinite;
   }
+
   @keyframes pulse {
     0% { transform: scale(1); }
     50% { transform: scale(1.3); }
     100% { transform: scale(1); }
   }
+
   h1 {
     font-size: 5.625rem; /* 562.5% */
     /* line-height: 2; */
-    margin: 50 auto 0 auto; /* auto keeps it center */
+    margin: auto; /* auto keeps it center */
     font-family: 'Cabin Sketch', cursive;
     color: #66BFBF;
     width: 50%;
-    margin: auto;
   }
+
   h2 {
     font-family: 'Cabin Sketch', cursive;
     font-size: 2.25rem;
@@ -33,97 +36,199 @@
     font-weight: normal;
     width: 50%;
     margin: auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+
   }
+
   h3 {
     color: #11999E;
     width: 50%;
     margin: auto;
   }
-  .hello {
-    padding-top: 5px;
-    padding-bottom: 10px;
+
+  hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #BBBFCA;;
+  border-width: 0.5rem;
+  height: 0;
+  width: 5rem;
   }
-  .top-container {
-    background-color: #D1E8E4;
-    position: relative;
-    padding-top: 100px;
-  }
-  .middle-container {
-  }
-  .intro {
-    width: 60%;
-    margin: auto;
-    text-align: auto;
+
+  p {
     line-height: 1.5;
   }
-  .bottom-container {
+
+  a {
+    color: #11999E;
+    font-family: 'Cabin Sketch', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
   }
+
+  a:hover {
+    color: #EAF6F6;
+  }
+
+  .top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 6rem;
+  }
+
+  .top-cloud {
+    position: relative;
+    left: 26rem;
+    bottom: 4rem;
+  }
+  .name {
+    padding-bottom: 3rem;
+  }
+
+  .profession {
+    padding-bottom: 0;
+  }
+
+  .mountain {
+    display: block;
+    width: 40rem;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+  .bottom-cloud {
+    position: relative;
+    right: 25rem;
+    bottom: -4rem;
+  }
+
+  .middle-container {
+    padding-top: 3.5rem;
+    padding-bottom: 3.5rem;
+  }
+
+  .profile {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+  }
+
+  .bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+  }
+
   .pro {
     text-decoration: underline;
   }
-  .top-cloud {
-    position: absolute;
-    right: 425px;
-    top: 50px;
+
+  .intro {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    line-height: 1.5;
   }
-  .bottom-cloud {
-    position: absolute;
-    left: 425px;
-    bottom: 300px;
-  }
+
   .skills-and-history {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+  }
+
+  .s-and-h {
     padding-top: 1rem;
     padding-bottom: 1rem;
   }
-  .s-and-h {
-    padding-bottom: 50px;
-  }
+
   .skill-row {
     width: 60rem;
     margin: auto;
-    padding-bottom: 4rem;
+    padding-bottom: 2rem;
   }
+
   .skills-picture {
     float: left;
     width: 25rem;
     margin-right: 2rem;
   }
+
   .skills-name {
     margin-right: 0.25rem;
   }
+
   .center-skills {
     margin-left: auto;
     margin-right: auto;
   }
+
   .history {
-    padding-top: 3rem;
+    padding-top: 1rem;
     width: 60rem;
     margin: auto;
-    padding-bottom: 3rem;
+    padding-bottom: 2rem;
   }
   .technology_picture {
+    padding-top: 5rem;
     float: right;
     width: 25rem;
     margin-left: 2rem;
   }
+
   .history-and-technology {
+    padding-top: 5rem;
     margin-left: 2rem;
   }
+
   .history-intro {
-    width: 50rem;
+    width: 40rem;
     margin-left: 2rem;
     line-height: 1.5;
     text-align: left;
   }
+
   .contact-me {
-    padding-top: 2rem;
+    padding-top: 1rem;
     width: 60%;
     margin: auto;
   }
+
+  .btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Cabin Sketch', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
   .contact-me-intro {
-    padding-top: 2.5rem;
+    padding-top: 2rem;
     padding-bottom: 2rem;
     width: 60%;
     margin: auto;
-    text-align: auto;
+    text-align: center;
+  }
+
+  .copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
   }
