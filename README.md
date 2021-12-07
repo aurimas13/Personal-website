@@ -1,16 +1,15 @@
-<!-- <p align=center>
-  <img height="80px" src="https://user-images.githubusercontent.com/1536647/77317442-78625700-6d0b-11ea-9822-0fb21e557e87.png"/>
+<p align=center>
+  <img height="80px" src="https://github.com/aurimas13/Personal-website/blob/main/Public/images/Aurimas-hsGCfs.png"/>
 </p>
 <p align=center>
-  A programming language that understands what a web app is.
+  A personal website of mine (Aurimas) that is under development. It will also include bio, blog and ML project implementation  that are all under development at the moment.
 </p>
 <br>
 <p align=center>
-  <a href="https://github.com/wasp-lang/wasp/blob/master/LICENSE"><img alt="license" src="https://img.shields.io/github/license/wasp-lang/wasp"></a>
-  <a href="https://github.com/wasp-lang/wasp/search?l=haskell"><img alt="language" src="https://img.shields.io/badge/language-Haskell-purple.svg"></a>
-  <a href="https://github.com/wasp-lang/wasp/actions"><img alt="build status" src="https://img.shields.io/github/workflow/status/wasp-lang/wasp/CI"/></a>
-  <a href="https://discord.gg/rzdnErX"><img alt="discord" src="https://img.shields.io/discord/686873244791210014?label=chat%20@%20discord"/></a>
-</p> -->
+  <a href="https://github.com/aurimas13/Personal-website/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
+  <a href="https://github.com/aurimas13/Personal-website/blob/main/index.html"><img alt="languages" src="https://img.shields.io/github/languages/count/aurimas13/Personal-website></a>
+  <a href="https://twitter.com/AANausedas"><img alt="Twitter" src="https://img.shields.io/twitter/follow/AANausedas?style=social"/></a>
+</p>
 
 ------
 
