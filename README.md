@@ -2,13 +2,12 @@
   <img height="80px" src="https://github.com/aurimas13/Personal-website/blob/main/Public/images/Aurimas-hsGCfs.png"/>
 </p>
 <p align=center>
-  A personal website of mine (Aurimas) that is under development. It will also include bio, blog and ML project implementation  that are all under development at the moment.
-</p>
+  A personal website of mine (Aurimas) that is under development.
 <br>
 <p align=center>
   <a href="https://github.com/aurimas13/Personal-website/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
-  <a href="https://github.com/aurimas13/Personal-website/blob/main/index.html"><img alt="languages" src="https://img.shields.io/github/languages/count/aurimas13/Personal-website></a>
-  <a href="https://twitter.com/AANausedas"><img alt="Twitter" src="https://img.shields.io/twitter/follow/AANausedas?style=social"/></a>
+  <a href="https://github.com/aurimas13/Personal-website/blob/main/index.html"><img alt="languages" src="https://img.shields.io/github/languages/count/aurimas13/Personal-website"></a>
+  <a href="https://twitter.com/AANausedas"><img alt="twitter" src=https://img.shields.io/twitter/follow/AANausedas?style=social"/></a>
 </p>
 
 ------
