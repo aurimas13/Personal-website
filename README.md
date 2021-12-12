@@ -15,6 +15,7 @@
 
 This is a side project where repo includes source codes for the personal website that will have my bio, blog and ML project implementation. I follow the full-stack path of web development with the help from this [course](https://www.udemy.com/course/the-complete-web-development-bootcamp/). The current project includes HTML and CSS **codes** ([index.html](https://github.com/aurimas13/Personal-website/blob/main/index.html) & [styles.css](https://github.com/aurimas13/Personal-website/blob/main/css/styles.css) files. Lecture advices are adjusted to my specific needs. You can also find the end result of the website [here](https://aurimas13.github.io/Personal-website/). Currently working more on getting better to develop websites as seen through [here](https://github.com/aurimas13/Web-programs). Once I am happy with the obtained knowledge I will play more with what I know while developing mine personal website.
 
+
 <p align="center">
   Project of a personal website under development!
 </p>
