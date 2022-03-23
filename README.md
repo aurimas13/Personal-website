@@ -8,7 +8,7 @@
 <p align=center>
   <a href="https://github.com/aurimas13/Personal-website/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/npm/l/express"></a>
   <a href="https://github.com/aurimas13/Personal-website/blob/main/index.html"><img alt="languages" src="https://img.shields.io/github/languages/count/aurimas13/Personal-website"></a>
-  <a href="https://twitter.com/AANausedas"><img alt="twitter" src=https://img.shields.io/twitter/follow/AANausedas?style=social"/></a>
+  <a href="https://twitter.com/AANausedas"><img alt="twitter" src=https://img.shields.io/twitter/follow/aurimasnausedas?style=social"/></a>
 </p>
 
 ------
