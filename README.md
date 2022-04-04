@@ -1,5 +1,4 @@
 
-
 <p align=center>
   <img height="80px" src="https://github.com/aurimas13/Personal-website/blob/main/Public/images/Aurimas-hsGCfs.png"/>
 </p>
